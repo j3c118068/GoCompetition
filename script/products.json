@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "key chain",
+        "price": 1.99,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "slim bag",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "havard Shirt",
+        "price": 8.15,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Math Shirt",
+        "price": 8.12,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Hat",
+        "price": 5.10,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "key chain",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "key chain",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Guitar Shirt",
+        "price": 7.99,
+        "image": { "fields": { "file": { "url": "./aset/shop/product-8.jpg" } } }
+      }
+    }
+  ]
+}
